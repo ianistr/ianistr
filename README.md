@@ -19,7 +19,6 @@ full-stack dev & cybersec engineer shipping SaaS products out of Constanța, Rom
 ### what I'm up to
 
 - 🚀 building **Taroian Technologies** — custom software, digitalization & cybersecurity consulting for Romanian businesses
-- 🧾 shipped a **Transport Management System** (Next.js/React front, ASP.NET Core + EF back, MySQL, Docker Compose) — full order-to-invoice-to-payment lifecycle for logistics companies
 - 🏢 built an **ERP for real estate developers** — multi-currency contracts, collections, live property portfolio tracking, in production
 - 🍷 wired up **Shopify ↔ ERP** integrations for real clients (webhook-driven, reverse-engineered non-standard auth along the way)
 - 🍽️ **Commanda** (HorecaSales) is live in 8 restaurants in Constanța — B2B ordering, supplier OTP auth, order approval workflows
